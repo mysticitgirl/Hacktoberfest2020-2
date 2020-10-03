@@ -1,3 +1,3 @@
-# This program prints Hello World!
+# This program printsG'day from Perth, WA!
 
-print('Hello World!')
+print('G'day from Perth, WA!')
